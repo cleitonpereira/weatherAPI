@@ -1,4 +1,4 @@
-let appId = '7d9aa734529d3c702d881b0ce2eb4903';
+let appId = 'put_your_apiKey_here';
 let units = 'metric';
 let searchMethod;
 
